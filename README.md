@@ -10,7 +10,7 @@ Foi desenvolvida utilizando as seguintes tecnologias:
 ## Instalação
 
 ```bash
-git clone
+git clone git@github.com:renato-aguena/outsera-front-end.git
 cd outsera-front-end
 npm install
 ```
